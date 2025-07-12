@@ -20,7 +20,7 @@ This project involves data analysis on an online retail dataset using Excel and 
 - **Excel** – Initial data understanding
 - **Pandas** – Data cleaning, filtering, and grouping
 - **Matplotlib / Seaborn / Plotly** – Visualizations
--  Power BI – If used, mention `.pbix` file
+-  Power BI –  [online_retail_report_data.pbxi](./online_retail _report_data.pbix)
 
 ---
 
